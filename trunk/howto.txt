@@ -1,0 +1,15 @@
+
+	15:01 10/29/2007
+
+	## simple build instructions ##
+
+	1) get the source from the svn
+	2) get zlib.net from http://www.componentace.com/zlib_.NET.htm
+	3) set up project in environment of your choice
+	4) add zlib binary as a resource
+	
+	your ready to go...
+
+
+	best,
+		joa
